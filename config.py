@@ -15,4 +15,4 @@ DEPLOYMENT_REPOS_DIR = os.path.join(API_ROOT_DIR, "deployments")
 
 # API KEYS
 GITHUB_API_KEY = os.getenv("GITHUB_API_KEY")
-NETLIFY_API_KEY = os.getenv("NETLIFY_API_KEY")
+VERCEL_API_KEY = os.getenv("VERCEL_API_KEY")
